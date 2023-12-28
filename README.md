@@ -26,7 +26,6 @@ We evaluate our method on [IDRiD](https://ieee-dataport.org/open-access/indian-d
 ## Visualization
 
 ![](./image/img.png)
-![](./image/compare.png)
 
 ## Code
 
