@@ -27,6 +27,15 @@ We evaluate our method on [IDRiD](https://ieee-dataport.org/open-access/indian-d
 
 ![](./image/img.png)
 
-## Code
+```bibtex
+inproceedings{xu2024hacdr,
+  title={HACDR-Net: heterogeneous-aware convolutional network for diabetic retinopathy multi-lesion segmentation},
+  author={Xu, QiHao and Luo, Xiaoling and Huang, Chao and Liu, Chengliang and Wen, Jie and Wang, Jialei and Xu, Yong},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={6},
+  pages={6342--6350},
+  year={2024}
+}
 
-Our code is about to be open-sourced.
+
