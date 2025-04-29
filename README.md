@@ -23,10 +23,6 @@ This code is based on [mmsegmentation 0.x](https://github.com/open-mmlab/mmsegme
 
 We evaluate our method on [IDRiD](https://ieee-dataport.org/open-access/indian-diabetic-retinopathy-image-dataset-idrid) and [DDR](https://github.com/nkicsl/DDR-dataset). In the future, we will also open source the private dataset of diabetic retinopathy segmentation that we have collected.
 
-## Visualization
-
-![](./image/img.png)
-
 ```bibtex
 inproceedings{xu2024hacdr,
   title={HACDR-Net: heterogeneous-aware convolutional network for diabetic retinopathy multi-lesion segmentation},
